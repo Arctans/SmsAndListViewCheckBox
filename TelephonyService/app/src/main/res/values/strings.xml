@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TelephonyService</string>
+    <string name="permission_tip">You must have the permission</string>
+</resources>

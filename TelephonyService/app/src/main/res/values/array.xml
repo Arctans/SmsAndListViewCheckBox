@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="statusNames">
+        <item>设备编号</item>
+        <item>软件版本</item>
+        <item>网络运营商代号</item>
+        <item>网络运营商名称</item>
+        <item>手机模式</item>
+        <item>蜂窝状态信息</item>
+        <item>SIM卡的国别</item>
+        <item>SIM卡序列号</item>
+        <item>SIM卡状态</item>
+    </string-array>
+
+    <string-array name="phoneType">
+        <item>PHONE_TYPE_NONE</item>
+        <item>PHONE_TYPE_GSM</item>
+        <item>PHONE_TYPE_CDMA</item>
+        <item>PHONE_TYPE_SIP</item>
+    </string-array>
+
+    <string-array name="SimState">
+        <item>SIM_STATE_UNKNOWN</item>
+        <item>SIM_STATE_ABSENT</item>
+        <item>SIM_STATE_PIN_REQUIRED</item>
+        <item>SIM_STATE_PUK_REQUIRED</item>
+        <item>SIM_STATE_NETWORK_LOCKED</item>
+        <item>SIM_STATE_READY</item>
+        <item>SIM_STATE_NOT_READY</item>
+        <item>SIM_STATE_PERM_DISABLED</item>
+        <item>SIM_STATE_CARD_IO_ERROR</item>
+        <item>SIM_STATE_CARD_RESTRICTED</item>
+
+    </string-array>
+</resources>

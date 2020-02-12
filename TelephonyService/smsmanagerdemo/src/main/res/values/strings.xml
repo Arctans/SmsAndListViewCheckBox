@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SmsManagerDemo</string>
+    <string name="content_tip">请输入内容:</string>
+    <string name="number_tip">电话号码</string>
+    <string name="permission_tip">必须先获取发送短信权限</string>
+    <string name="send_tip">发送完成</string>
+</resources>
